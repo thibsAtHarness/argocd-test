@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: guestbookk
+        app: guestbook
     spec:
       containers:
       - name: guestbook
